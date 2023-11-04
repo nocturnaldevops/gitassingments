@@ -1,0 +1,9 @@
+# Assignment1
+Create a usecase to explain .gitignore
+True/false
+Gitignore is a directory (T/F)
+
+# Assignment2
+True/False:
+Git activities happen only on windows os. (T/F)
+Create a usecase to explain git stash concept
