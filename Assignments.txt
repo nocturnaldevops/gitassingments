@@ -7,3 +7,10 @@ Gitignore is a directory (T/F)
 True/False:
 Git activities happen only on windows os. (T/F)
 Create a usecase to explain git stash concept
+
+
+# Assignment3
+Create a usecase to explain git reset types
+True/False:
+Git hard reset doesnt delete any of the user data (T/F)
+Create a usecase to retrieve the data that is deleted when a user did a hard reset 
